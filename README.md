@@ -1,10 +1,10 @@
 # vivianndo.github.io
 ## Education
-**University of San Diego | M.S. Applied Data Science | 05/2022- 05/2024 (expected)**
+### University of San Diego | M.S. Applied Data Science | 05/2022- 05/2024 (expected)
 
 Coursework: Statistics, Data Science Programming, Foundation of Data Science, Machine Learning, Applied Data Science for Business,          Applied Data Mining, Applied Predictive Modeling, Machine Learning, Applied Time Series Analysis
 	 
-**University of California, San Diego | B.S Biochemistry and Cell Biology | 09/2016 - 05/2020**
+### University of California, San Diego | B.S Biochemistry and Cell Biology | 09/2016 - 05/2020
 
 Coursework: Biochemistry, Molecular Biology, Genetics, Cell Biology, Organic Chemistry
 
@@ -32,12 +32,12 @@ Achieved a 225% lift for predicting cancellations with key recommendations for b
 
 
 ## Work Experience
-**Millennium Health | Toxicology Laboratory Technician | San Diego, CA**
+### Millennium Health | Toxicology Laboratory Technician | San Diego, CA
 
 Enhanced testing throughput by 15% through the implementation of instrument maintenance, troubleshooting, and quality control procedures. Ensured strict adherence to safety protocols and CAP and CLIA-approved methods.
 
 
-**UCI Medical Center | Laboratory Assistant | Orange, CA**
+### UCI Medical Center | Laboratory Assistant | Orange, CA
 
 Increased operational effectiveness by 10%  by processing and accessioning over 3,000 samples daily while serving as the primary liaison between the laboratory and various stakeholders, including administrative and hospital personnel.
 
