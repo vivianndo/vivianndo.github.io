@@ -1,10 +1,10 @@
 # vivianndo.github.io
 ## Education
-**University of San Diego** | M.S. Applied Data Science | 05/2022- 05/2024 (expected)
+**University of San Diego | M.S. Applied Data Science | 05/2022- 05/2024 (expected)**
 
 Coursework: Statistics, Data Science Programming, Foundation of Data Science, Machine Learning, Applied Data Science for Business,          Applied Data Mining, Applied Predictive Modeling, Machine Learning, Applied Time Series Analysis
 	 
-**University of California, San Diego** | B.S Biochemistry and Cell Biology | 09/2016 - 05/2020
+**University of California, San Diego | B.S Biochemistry and Cell Biology | 09/2016 - 05/2020**
 
 ## Projects 
 Data Science | Machine Learning | Data Engineering 	
@@ -14,12 +14,12 @@ Data Science | Machine Learning | Data Engineering
 Accomplished a 10% improvement in readmission prediction by analyzing over 100,000 clinical records spanning 1999 to 2008. Successfully identified key risk factors associated with readmission through exploratory data analysis.
 
 
-**Predicting Gun Violence Injuries**
+**Predicting Gun Violence Injuries** | [Link](https://github.com/vivianndo/ads508_gunviolence)
 
 Achieved an 80% accuracy in predicting gun violence injuries and determined the areas most affected by leveraging AWS cloud computing and Sagemaker built-in algorithms.
 
 
-**Flights-info Data Pipeline**
+**Flights-info Data Pipeline** | [Link](https://github.com/vivianndo/ads507_airlines)
 
 Created a flight-info data pipeline to provide curated information on flight delays for travelers, average arrival and departure delays for airline analysts, and daily aggregates of precipitation for airports
 
@@ -30,12 +30,12 @@ Achieved a 225% lift for predicting cancellations with key recommendations for b
 
 
 ## Work Experience
-Millennium Health | Toxicology Laboratory Technician | San Diego, CA
+**Millennium Health | Toxicology Laboratory Technician | San Diego, CA**
 
 Enhanced testing throughput by 15% through the implementation of instrument maintenance, troubleshooting, and quality control procedures. Ensured strict adherence to safety protocols and CAP and CLIA-approved methods.
 
 
-UCI Medical Center | Laboratory Assistant | Orange, CA 
+**UCI Medical Center | Laboratory Assistant | Orange, CA**
 
 Increased operational effectiveness by 10%  by processing and accessioning over 3,000 samples daily while serving as the primary liaison between the laboratory and various stakeholders, including administrative and hospital personnel.
 
