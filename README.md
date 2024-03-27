@@ -6,6 +6,8 @@ Coursework: Statistics, Data Science Programming, Foundation of Data Science, Ma
 	 
 **University of California, San Diego | B.S Biochemistry and Cell Biology | 09/2016 - 05/2020**
 
+Coursework: Biochemistry, Molecular Biology, Genetics, Cell Biology, Organic Chemistry
+
 ## Projects 
 Data Science | Machine Learning | Data Engineering 	
 
