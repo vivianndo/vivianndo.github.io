@@ -1,12 +1,12 @@
 # vivianndo.github.io
 ## Education
-University of San Diego | M.S. Applied Data Science | 05/2022-05/2024
+**University of San Diego** | M.S. Applied Data Science | 05/2022- 05/2024 (expected)
 
 Coursework: Statistics, Data Science Programming, Foundation of Data Science, Machine Learning, Applied Data Science for Business,          Applied Data Mining, Applied Predictive Modeling, Machine Learning, Applied Time Series Analysis
 	 
-University of San Diego, California| B.S Biochemistry and Cell Biology | 09/2016 - 05/2020
+**University of California, San Diego** | B.S Biochemistry and Cell Biology | 09/2016 - 05/2020
 
-## Projects
+## Projects 
 Data Science | Machine Learning | Data Engineering 	
 
 **Predicting Readmission in Patients with Diabetes**
