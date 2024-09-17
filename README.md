@@ -1,6 +1,6 @@
 # vivianndo.github.io
 ## Education
-#### University of San Diego | M.S. Applied Data Science | 05/2022- 05/2024 (expected)
+#### University of San Diego | M.S. Applied Data Science | 05/2022- 05/2024
 
 Coursework: Statistics, Data Science Programming, Foundation of Data Science, Machine Learning, Applied Data Science for Business,          Applied Data Mining, Applied Predictive Modeling, Machine Learning, Applied Time Series Analysis
 	 
