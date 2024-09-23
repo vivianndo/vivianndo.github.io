@@ -11,7 +11,7 @@ Coursework: Biochemistry, Molecular Biology, Genetics, Cell Biology, Organic Che
 ## Projects 
 Data Science | Machine Learning | Data Engineering 	
 
-#### Predicting Readmission in Patients with Diabetes | [Link](https://github.com/vivianndo/ads503_readmissions)
+#### Predicting Readmission in Patients with Diabetes | [Link](https://github.com/vivianndo/ads503_readmissions/tree/main/deliverables)
 
 Accomplished a 10% improvement in readmission prediction by analyzing over 100,000 clinical records spanning 1999 to 2008. Successfully identified key risk factors associated with readmission through exploratory data analysis.
 
